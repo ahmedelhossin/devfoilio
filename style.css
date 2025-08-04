@@ -50,7 +50,7 @@
 }
 
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../images/hero-bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(hero-bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -89,7 +89,7 @@
 }
 
 .work {
-    background-image: linear-gradient(rgba(0, 120, 255, 0.4)), url(../images/counters-bg.jpg);
+    background-image: linear-gradient(rgba(0, 120, 255, 0.4)), url(counters-bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -107,7 +107,7 @@
 }
 
 .carousel-item {
-    background-image: linear-gradient(rgba(0, 120, 255, 0.4)), url(../images/overlay-bg.jpg);
+    background-image: linear-gradient(rgba(0, 120, 255, 0.4)), url(overlay-bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -124,7 +124,7 @@
 }
 
 .contact {
-    background-image: linear-gradient(rgba(0, 120, 255, 0.6)), url(../images/overlay-bg.jpg);
+    background-image: linear-gradient(rgba(0, 120, 255, 0.6)), url(overlay-bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -134,3 +134,4 @@
     height: 5px;
     background-color: #0078ff;
 }
+
