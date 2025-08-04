@@ -1,0 +1,39 @@
+@media screen and (min-width: 780px) {
+    .nav-bar-links {
+        background-color: #212529;
+    }
+
+    .nav-item a {
+        color: white;
+    }
+
+    .navbar-nav .nav-link.active {
+        color: white;
+        border-bottom: 2px white solid;
+
+    }
+
+    .navbar-nav .nav-link:active {
+        color: white;
+        border-bottom: 2px white solid;
+    }
+
+    .navbar-nav .nav-link:hover {
+        color: white;
+    }
+
+    .nav-item .dropdown-item {
+        color: black;
+    }
+
+    .dropdown-submenu .dropdown-menu {
+        right: 88%;
+    
+}
+
+    .navbar .container-fluid{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+}

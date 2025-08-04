@@ -1,0 +1,136 @@
+.nav-bar-links {
+    background-color: white;
+    padding: 20px;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.navbar-nav .nav-link.active {
+    color: #0078ff;
+
+}
+
+.navbar-nav .nav-link:active {
+    color: #0078ff;
+}
+
+.nav-link:focus {
+    color: black;
+}
+
+
+.navbar-nav .nav-link.show {
+    color: black;
+}
+
+.nav-link:hover {
+    color: #0078ff;
+}
+
+.dropdown-item:hover {
+    color: #0078ff;
+    background-color: transparent;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    margin: 10px 20px;
+    border: 0;
+    display: none;
+    position: sticky;
+}
+
+.dropdown-submenu:hover .dropdown-menu {
+    display: block;
+}
+
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../images/hero-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.height-progress {
+    height: 10px;
+}
+
+.line {
+    width: 40px;
+    height: 5px;
+    background-color: #0078ff;
+    margin: 0 auto;
+}
+
+.s-hover:hover .whi {
+    color: white;
+}
+
+
+.s-hover:hover .phi {
+    background-color: #0078ff;
+    border: 5px #CDE1F8 solid;
+}
+
+.s-hover .phi {
+    border: 5px #0078ff solid;
+}
+
+.CDE1F8 {
+    color: #CDE1F8;
+}
+
+.b-CDE1F8 {
+    border-color: #CDE1F8;
+}
+
+.work {
+    background-image: linear-gradient(rgba(0, 120, 255, 0.4)), url(../images/counters-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.p-card {
+    overflow: hidden;
+}
+
+.p-img {
+    transition: all 1s;
+}
+
+.p-card:hover .p-img {
+    transform: scale(1.2);
+}
+
+.carousel-item {
+    background-image: linear-gradient(rgba(0, 120, 255, 0.4)), url(../images/overlay-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.carousel-indicators [data-bs-target] {
+    height: 15px;
+    width: 15px;
+}
+
+.pa{
+    top: -10%;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.contact {
+    background-image: linear-gradient(rgba(0, 120, 255, 0.6)), url(../images/overlay-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.c-line{
+    width: 100px;
+    height: 5px;
+    background-color: #0078ff;
+}

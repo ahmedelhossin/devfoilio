@@ -1,0 +1,120 @@
+.typewriter::after {
+    font-size: 25px;
+    font-weight: bold;
+    animation: typewrite 5s infinite;
+    content: "";
+}
+
+@keyframes typewrite {
+    0% {
+        content: "D|";
+    }
+
+    5% {
+        content: "De|";
+    }
+
+    10% {
+        content: "Dev|";
+    }
+
+    15% {
+        content: "Deve|";
+    }
+
+    20% {
+        content: "Devel|";
+    }
+
+    25% {
+        content: "Develo|";
+    }
+
+    30% {
+        content: "Develop|";
+    }
+
+    35% {
+        content: "Develope|";
+    }
+
+    40% {
+        content: "Developer|";
+    }
+
+    45% {
+        content: "";
+    }
+
+    50% {
+        content: "D|";
+    }
+
+    55% {
+        content: "De|";
+    }
+
+    60% {
+        content: "Des|";
+    }
+
+    65% {
+        content: "Desi|";
+    }
+
+    70% {
+        content: "Desig|";
+    }
+
+    75% {
+        content: "Design|";
+    }
+
+    80% {
+        content: "Designe|";
+    }
+
+    85% {
+        content: "Designer|";
+    }
+
+    90% {
+        content: "";
+    }
+
+    92% {
+        content: "P|";
+    }
+
+    93% {
+        content: "Ph|";
+    }
+
+    94% {
+        content: "Pho|";
+    }
+
+    95% {
+        content: "Phot|";
+    }
+
+    96% {
+        content: "Photo|";
+    }
+
+    97% {
+        content: "Photog|";
+    }
+
+    98% {
+        content: "Photogr|";
+    }
+
+    99% {
+        content: "Photogra|";
+    }
+
+    100% {
+        content: "Photographer|";
+    }
+}
